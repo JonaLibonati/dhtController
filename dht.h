@@ -32,7 +32,7 @@
 
 #define DHT11_ERROR_SUM -1
 #define DHT11_ERROR_TIMEOUT -2
-#define DHT11_NON_VALID -100
+#define DHT11_NON_VALID -111
 #define DHT11_ALL_OK 0
 
 class dht
