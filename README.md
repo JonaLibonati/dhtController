@@ -82,9 +82,10 @@ void loop(){
 }
 ```
 
-Result (one read):
+Serial port result (one read):
 
 ```
+Code response: 0
 Bytes [Binary]: 11101 111 11011 1001 1001000
 Bytes: 29 7 27 9 72
 Temperature: 27.90 °C
